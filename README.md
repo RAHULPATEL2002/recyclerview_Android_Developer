@@ -21,8 +21,10 @@ This repository contains an example project demonstrating the use of RecyclerVie
 - Supports dynamic data loading.
 
 ## Screenshots
+ 
+![WhatsApp Image 2024-11-05 at 12 23 00_daf12296](https://github.com/user-attachments/assets/debdb93a-e154-4811-b83e-724499894133)
+![WhatsApp Image 2024-11-05 at 12 23 00_df5bf9a8](https://github.com/user-attachments/assets/2db3c5dd-6419-43ae-ab77-2082023ee5b2)
 
-![RecyclerView Screenshot](link-to-your-screenshot)  
 *Insert a screenshot of your RecyclerView here.*
 
 ## Getting Started
@@ -38,21 +40,21 @@ To get a local copy of this project up and running, follow these simple steps.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/recyclerview-example.git
+   git clone https://github.com/RAHULPATEL2002/recyclerview_Android_Developer.git
 Open the project in Android Studio.
 
 Sync the project with Gradle files.
 
 Run the application on an emulator or physical device.
 
-Usage
+## Usage
 Open MainActivity.kt or MainActivity.java to see how the RecyclerView is set up.
 Modify the Adapter class to change how items are displayed.
 Add new items to the data source to see how the RecyclerView handles dynamic updates.
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contributing
+## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request for any enhancements or fixes.
 
 Fork the repository.
